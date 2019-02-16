@@ -65,7 +65,7 @@
   "scaffoldConfig": {
     "builder": "ice-scripts",
     "name": "ice-task-management-admin",
-    "title": "任务管理系统",
+    "title": "测试用例管理系统",
     "categories": [
       "行业领域"
     ],
